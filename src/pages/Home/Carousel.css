@@ -1,0 +1,17 @@
+@media screen and (max-width: 768px) {
+    .imgSlides{
+        width: 100%;
+    }
+
+}
+
+@media(min-width: 768px){
+
+    .textObj{
+        width: 70%;
+        }
+    .textContainer{
+        display:flex;
+        justify-content: center;
+    }
+}
