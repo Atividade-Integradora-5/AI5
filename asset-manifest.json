@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AI5/static/css/main.234622e1.css",
+    "main.js": "/AI5/static/js/main.a81efe90.js",
+    "static/js/453.0c8ad02c.chunk.js": "/AI5/static/js/453.0c8ad02c.chunk.js",
+    "static/media/unilasalle.png": "/AI5/static/media/unilasalle.b87b35bf4b6dcd1b0e9d.png",
+    "static/media/revicons.eot": "/AI5/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/AI5/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/img.jpeg": "/AI5/static/media/img.a8e896eb1285bf7568d9.jpeg",
+    "static/media/revicons.woff": "/AI5/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/AI5/index.html",
+    "main.234622e1.css.map": "/AI5/static/css/main.234622e1.css.map",
+    "main.a81efe90.js.map": "/AI5/static/js/main.a81efe90.js.map",
+    "453.0c8ad02c.chunk.js.map": "/AI5/static/js/453.0c8ad02c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.234622e1.css",
+    "static/js/main.a81efe90.js"
+  ]
+}
